@@ -97,7 +97,7 @@
        <Hallo nama="Real Madrid"/>
        <Tambah tambah=" Barcelona"/>
        <Text>=============================================</Text>
-       <Nilai nilai="FIFA"/>
+       <Nilai nilai="Liga Champion"/>
        <Text>=============================================</Text>
        <Kallo />
      </View>
